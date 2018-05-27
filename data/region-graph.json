@@ -3,6 +3,14 @@
     "crystal-lake"
   ],
   "crystal-lake": [
-    "woodstock"
+    "woodstock",
+    "lake-in-the-hills"
+  ],
+  "lake-in-the-hills": [
+    "crystal-lake",
+    "algonquin"
+  ],
+  "algonquin": [
+    "lake-in-the-hills"
   ]
 }
