@@ -1,6 +1,5 @@
 {
 	"1352837": {
-		"is_ex": true,
 		"additional_information": "Gate at park entrance is closed in the winter"
 	},
 	"1352190": {
@@ -17,5 +16,60 @@
 	},
     "2961783" : {
 		"additional_information": "This raid bot is for the Western Fen Park Gym.  If the raid is at the Fen Park gym on the East side, type `!gym feneast` into the channel"
-	}
+	},
+    "1352839" : {
+        "is_ex": true,
+        "additional_information": "Park gate is closed during winter months, and when closed the entrance has enough room for only two cars"
+    },
+    "2961270" : {
+        "is_ex": true
+    },
+    "2962046" : {
+        "is_ex": true
+    },
+    "49338700" : {
+        "is_ex": true
+    },
+    "2961908" : {
+        "is_ex": true
+    },
+    "5579339" : {
+        "is_ex": true
+    },
+    "2961318" : {
+        "is_ex": true
+    },
+    "2961896" : {
+        "is_ex": true
+    },
+    "5461477" : {
+        "is_ex": true
+    },
+    "2961205" : {
+        "is_ex": true
+    },
+    "2961542" : {
+        "is_ex": true
+    },
+    "5579751" : {
+        "is_ex": true
+    },
+    "1352160" : {
+        "is_ex": true
+    },
+    "965189" : {
+        "is_ex": true
+    },
+    "5579327" : {
+        "is_ex": true
+    },
+    "11368754" : {
+        "is_ex": true
+    },
+    "1352152" : {
+        "is_ex": true
+    },
+    "11368820" : {
+        "is_ex": true
+    }
 }
