@@ -12,10 +12,12 @@
 		"additional_information": "Park either at Shamrock Office Park or Christ Life Church then walk to Mausoleum"
 	},
     "2961687": {
-		"additional_information": "This raid bot is for the Eastern Fen Park Gym.  If the raid is at the Fen Park gym on the West side, type `!gym fenwest` into the channel"
+		"additional_information": "This raid bot is for the Eastern Fen Park Gym.  If the raid is at the Fen Park gym on the West side, type `!gym fenwest` into the channel",
+		"additional_terms": "feneast"
 	},
     "2961783" : {
-		"additional_information": "This raid bot is for the Western Fen Park Gym.  If the raid is at the Fen Park gym on the East side, type `!gym feneast` into the channel"
+		"additional_information": "This raid bot is for the Western Fen Park Gym.  If the raid is at the Fen Park gym on the East side, type `!gym feneast` into the channel",
+		"additional_terms": "fenwest"
 	},
     "1352839" : {
         "is_ex": true,
@@ -70,6 +72,12 @@
         "is_ex": true
     },
     "11368820" : {
+        "is_ex": true
+    },
+    "49059550" : {
+        "is_ex": true
+    },
+     "49308118": {
         "is_ex": true
     }
 }
