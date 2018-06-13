@@ -82,6 +82,7 @@
     },
     "2961868": {
         "is_ex": true
+<<<<<<< .mine
     },
     "2961488": {
         "nickname": "LITH Water Tower Algonquin",
@@ -105,5 +106,196 @@
     },
     "2961971": {
         "nickname": "Joy Community Church"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+    },
+    "2961488": {
+        "nickname": "LITH Water Tower Algonquin",
+		"additional_information": "This raid bot is for the Water Tower on Algonquin Rd.  If the raid is actually located at the Water Tower in Sunset Park, type `!gym lith water sunset` into the channel",
+		"additional_terms": "lith water alg"
+    },
+    "2961984": {
+        "nickname": "LITH Water Tower Sunset Park",
+		"additional_information": "This raid bot is for the Water Tower in Sunset Park.  If the raid is actually located at the Water Tower on Algonquin Rd, type `!gym lith water alg` into the channel",
+		"additional_terms": "lith water sunset"
+    },
+    "drg-2961488": {
+        "nickname": "LITH Water Tower Algonquin",
+		"additional_information": "This raid bot is for the Water Tower on Algonquin Rd.  If the raid is actually located at the Water Tower in Sunset Park, type `!gym lith water sunset` into the channel",
+		"additional_terms": "lith water alg"
+    },
+    "drg-2961984": {
+        "nickname": "LITH Water Tower Sunset Park",
+		"additional_information": "This raid bot is for the Water Tower in Sunset Park.  If the raid is actually located at the Water Tower on Algonquin Rd, type `!gym lith water alg` into the channel",
+		"additional_terms": "lith water sunset"
+    },
+	"drg-1352837": {
+		"additional_information": "Gate at park entrance is closed in the winter"
+	},
+	"drg-1352190": {
+		"is_ex": true
+	},
+	"drg-1352886": {
+		"is_ex": true
+	},
+	"drg-1352914": {
+		"additional_information": "Park either at Shamrock Office Park or Christ Life Church then walk to Mausoleum"
+	},
+	"drg-2961687": {
+        "nickname": "LITH Fen East",
+		"additional_information": "This raid bot is for the Eastern Fen Park Gym.  If the raid is actually located at the Fen Park gym on the West side, type `!gym fenwest` into the channel",
+		"additional_terms": "feneast"
+	},
+	"drg-2961783" : {
+        "nickname": "LITH Fen West",
+		"additional_information": "This raid bot is for the Western Fen Park Gym.  If the raid is actually located at the Fen Park gym on the East side, type `!gym feneast` into the channel",
+		"additional_terms": "fenwest"
+	},
+	"drg-1352839" : {
+    	"is_ex": true,
+    	"additional_information": "Park gate is closed during winter months, and when closed the entrance has enough room for only two cars"
+    },
+	"drg-2961270" : {
+    	"is_ex": true
+    },
+	"drg-2962046" : {
+    	"is_ex": true
+    },
+	"drg-49338700" : {
+    	"is_ex": true
+    },
+	"drg-2961908" : {
+    	"is_ex": true
+    },
+	"drg-5579339" : {
+    	"is_ex": true
+    },
+	"drg-2961318" : {
+    	"is_ex": true
+    },
+	"drg-2961896" : {
+    	"is_ex": true
+    },
+	"drg-5461477" : {
+    	"is_ex": true
+    },
+	"drg-2961205" : {
+    	"is_ex": true
+    },
+	"drg-2961542" : {
+    	"is_ex": true
+    },
+	"drg-5579751" : {
+    	"is_ex": true
+    },
+	"drg-1352160" : {
+    	"is_ex": true
+    },
+	"drg-965189" : {
+    	"is_ex": true
+    },
+	"drg-5579327" : {
+    	"is_ex": true
+    },
+	"drg-11368754" : {
+    	"is_ex": true
+    },
+	"drg-1352152" : {
+    	"is_ex": true
+    },
+	"drg-11368820" : {
+    	"is_ex": true
+    },
+	"drg-49059550" : {
+    	"is_ex": true
+    },
+ 	"drg-49308118": {
+    	"is_ex": true
+    },
+	"drg-2961868": {
+    	"is_ex": true
+>>>>>>> .theirs
     }
 }
