@@ -1,24 +1,24 @@
 {
-  "lith": [
+  "lake-in-the-hills": [
     "algonquin",
     "crystal-lake",
     "huntley",
     "cary-frg"
   ],
   "algonquin": [
-    "lith",
+    "lake-in-the-hills",
     "dundee",
     "cary-frg"
   ],
   "crystal-lake": [
-    "lith",
+    "lake-in-the-hills",
     "huntley",
     "mchenry",
     "woodstock",
     "cary-frg"
   ],
   "huntley": [
-    "lith",
+    "lake-in-the-hills",
     "crystal-lake"
   ],
   "mchenry": [
@@ -31,7 +31,7 @@
     "crystal-lake"
   ],
   "cary-frg": [
-    "lith",
+    "lake-in-the-hills",
     "algonquin",
     "crystal-lake"
   ],
@@ -41,8 +41,5 @@
   "grayslake": [
     "round-lake"
   ],
-  "daily-raid-group": [
-  ],
-  "ex-raids": [
-  ]
+  "ex-raids": []
 }
