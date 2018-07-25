@@ -95,10 +95,10 @@
     },
     "2961628": {
         "nickname": "FIB Water Tower",
-		"additional_information": "Park in the U-haul parking lok and walk around fence toward the water tower to access the gym."
+		"additional_information": "Park in the U-haul parking lot and walk around fence toward the water tower to access the gym."
     },
     "2962045": {
-        "additional_information": "Caution, the owners of Dole do not like raiders in front of the mansion."
+        "additional_information": ""
     },
     "49712234": {
         "additional_information": "Be prepared for a half-mile trail walk to reach this gym."
@@ -109,7 +109,7 @@
     "1352169": {
         "is_ex": true
     },
-    "mp0hm3d460cqw9a" {
+    "mp0hm3d460cqw9a": {
         "additional_information": "Access this gym from the dedicated walking path accessible from the subdivision.  About a 0.2 mile walk to the gym."
     }
 }
